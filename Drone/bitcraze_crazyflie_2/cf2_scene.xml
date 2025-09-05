@@ -1,0 +1,4 @@
+<mujoco model="cf2_scene">
+  <!-- Include the full Crazyflie scene (drone + environment) -->
+  <include file="scene.xml"/>
+</mujoco>

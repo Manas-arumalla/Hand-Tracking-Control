@@ -1,0 +1,4 @@
+<mujoco model="shadow_hand_scene">
+  <!-- Include the DeepMind scene (hand geometry, lights, camera) -->
+  <include file="shadow_hand/scene_right.xml"/>
+</mujoco>

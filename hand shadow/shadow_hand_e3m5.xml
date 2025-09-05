@@ -1,0 +1,9 @@
+<mujoco model="shadow_hand_e3m5">
+  <!-- 1) Pull in DeepMind’s raw E3M5 hand -->
+  <include file="shadow_hand/right_hand.xml"/>
+
+  <!-- 2) (Optional) override any visual or collision settings here -->
+  <visual>
+    <map znear="0.01"/>
+  </visual>
+</mujoco>
