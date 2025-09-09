@@ -39,7 +39,7 @@ This project integrates:
 
 ---
 
-## 🌟 Why This Matters
+## Why This Matters
 - Enables a **contactless, intuitive interface** for machines.  
 - Reduces reliance on traditional hardware controllers.  
 - Provides a versatile platform for **robotics, AR/VR, gaming, and accessibility**.  
@@ -47,6 +47,6 @@ This project integrates:
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
